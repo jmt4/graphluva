@@ -7,13 +7,13 @@ class AdjList(Graph):
 		pass
 
 	def remove_vertex(self):
-		pass
+		raise NotImplementedError("Implement me")
 
 	def add_vertex(self):
-		pass
+		raise NotImplementedError("Implement me")
 
 	def add_edge(self):
-		pass
+		raise NotImplementedError("Implement me")
 
 	def remove_edge(self):
-		pass
+		raise NotImplementedError("Implement me")

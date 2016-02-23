@@ -5,7 +5,7 @@ class Graph(object):
 
 	@abc.abstractmethod
 	def remove_vertex(self):
-		#raise NotImplementedError("Implement me");
+		return
 
 	@abc.abstractmethod
 	def add_vertex(self):
